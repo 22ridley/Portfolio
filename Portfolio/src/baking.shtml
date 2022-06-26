@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<img class="wrapped" src="Images/grandma.JPG" alt="Baking with Grandma">
+<h2>
+    Baking
+</h2>
+<br>
+<h1>
+    Origins
+</h1>
+<br>
+<p>
+    My love of baking originated with my grandmother. Everytime my family visits her, she has an
+    array of pastries, cakes, and cookies waiting for us. A tradition that will stick with me for
+    my entire life is baking Christmas cookies. They may just be simple sugar cookies, but my
+    cousins, sister and I go out all our when we decorate. We use colorful frosting, sprinkles, M
+    &Ms, and everything else we have access to.
+</p>
+<br>
+<img class="wrapped5" src="Images/cookies.jpg" alt="Christmas Cookies">
+<img class="wrapped" src="Images/macaron.JPG" alt="Christmas Cookies">
+<h1>
+    Favorites
+</h1>
+<br>
+<p>
+    Back at home, another Christmas treat that I baked were macarons. Let be honest: they look
+    pretty bad. But whatever, it was my first time making them and they tasted great. We used
+    chocolate and peppermint as our flavoring for the macarons, and like I said, they were awesome.
+    At some point in the future, I will take another stab at macarons, and I think I might
+    try a fruit flavor like lemon or raspberry. I am confident that my macarons will go better the next time around.
+</p>
+<br>
+<br>
+<img class="wrapped" src="Images/strawberryscones.JPG" alt="Scones">
+<img class="wrapped" src="Images/brownies.JPG" alt="Brownies">
+<p>
+    Another choclate treat that I love to bake are brownies. Baking brownies is a whole lot
+    easier than baking macarons, so I tend to choose brownies. At the time I took the picture
+    of these brownies, I also baked strawberry scones. We baked both the brownies and the scones
+    in a scone pan, and they turned out as eight cute corners. We made these treats for a spring
+    party, and they were great snacks. We also made the flower shortbread cookies below for
+    the party. They exemplify the spirit of spring perfectly. I discovered that shortbread is
+    my favorite kind of cookie, and I can't wait to make even more in the future.
+</p>
+<br>
+<img class="wrapped3" src="Images/shortbread.JPG" alt="Shortbred">
+<img class="wrapped" src="Images/sorbet.JPG" alt="Sorbet">
+<p>
+    One of my favorite treats I have ever made is strawberry sorbet. Yes, I know it shouldn't
+    really fall under the baking category. But, I didn't really know where else to put it, and I
+    definitely couldn't omit it from the website. Every summer, we pick strawberries at a local farm.
+    One of the treats that we make is strawberry scones, which are above on this page. But making strawberry sorbet is even easier. First, we blend strawberries
+    and lemon juice together with honey. Then, we pour that into our blender to crush the
+    strawberries and smooth the mixture. Finally, we pour it into our ice cream maker.
+    The final sorbet is delicious, and I like to tell myself that it's healthy too.
+</p>
+<br>
+<img class="wrapped3" src="Images/crostada1.JPG" alt="Crostada">
+<img class="wrapped3" src="Images/crostada2.JPG" alt="Crostada">
+<p>
+    Another fruity desert that I love is this pear crostada. We made this crostada as a
+    Thanksgiving treat to go with our pies, and it was perfect. The pears were fresh and
+    juicy, and the cinnamon mixture inside gave the dish perfect fall flavors. I love taking
+    these before-and-after pictures and placing them beside each other. You can really see
+    the difference after the crostada came out of the oven. The dough is golden brown and the
+    pears look juicy and delicious. The feeling of successfully trying a new recipe made our
+    Thanksgiving celebration even more special. I can't wait to make it again!
+</p>
+<br>
+<br>
+<br>
+<br>
+<!--#include file="footer.html" -->
+</body>
+</html>

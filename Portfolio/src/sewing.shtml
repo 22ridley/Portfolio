@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Sewing
+</h2>
+<!-- Three different subpages and links to them -->
+<br>
+<img class="wrapped3" src="Images/presewnmasks.JPG" alt="Masks">
+<img class="wrapped" src="Images/maskswheel.jpg" alt="Masks">
+<h1>
+    Face Masks
+</h1>
+<br>
+<p>
+    In the summer of 2020, I sewed 50 face masks and donated them to a birth center in Western North
+    Carolina. I had never sewn face masks before, but during the beginning of the pandemic, demand
+    for face masks was high. I also wanted to inspire joy in a tough time like the pandemic, so I chose
+    bright, colorful fabrics for the face masks. I found it incredibly fulfilling to know that my sewing
+    skills have helped strangers, and I have continued looking for other ways to use this passion to help others.
+</p>
+<br>
+<img class="wrapped" src="Images/mackPillow.JPG" alt="Tooth Pillow">
+<img class="wrapped" src="Images/ryanpillow.JPG" alt="Tooth Pillow">
+<h1>
+    Tooth Pillows
+</h1>
+<br>
+<p>
+    It may seem random, but another set of meaningful sewing projects I have completed are tooth pillows.
+    Each tooth pillow has a front pocket where the recipient can store their teeth that have fallen out for the
+    tooth fairy to collect. I made my first tooth pillow for a cousin after he lost his first tooth, but I don't
+    have a picture of it. Then, when that cousin's younger brother lost his first tooth, I made a tooth pillow
+    for him too. Then, when a family friend's son was born, my grandmother requested that I sew one of my famous
+    tooth pillows for him. As you can see, he's a long way off from losing his first tooth, but he will be more than
+    prepared when he does.
+</p>
+<br>
+<h1>
+    Quilts
+</h1>
+<br>
+<p>
+    My absolute favorite type of sewing project is quilting. Quilts take much more time than
+    any other sewing project on this page, and they are so incredibly rewarding. The pictures
+    I included below show the process of one of my quilts, which I made as part of an English
+    project last year. The quilt is about how the sewing machine simultaneously reduced women's
+    work load to make clothes for their family, but also emphasized their domestic familial role.
+    The symbols I show in this quilt are the Venus symbol, the globe, an old sewing machine, a new
+    sewing machine, and a factory along the bottom. The factory and the globe represent how today,
+    the labor of sewing clothing is outsourced to third world countries. This makes the price of
+    clothing incredibly cheap, encouraging consumers to buy and subsequently waste more clothing.
+    This process of harmful to our world because the workers do not earn living wages and because
+    rising clothing production and waste have horrible implications for our climate.
+</p>
+<br>
+<img class="wrapped4" src="Images/quilt1.jpg" alt="Quilt Image 1">
+<img class="wrapped4" src="Images/quilt2.jpg" alt="Quilt Image 2">
+<img class="wrapped4" src="Images/quilt3.jpg" alt="Quilt Image 3">
+<img class="wrapped4" src="Images/quilt4.JPG" alt="Quilt Image 4">
+<br>
+<br>
+<br>
+<img class="wrapped3" src="Images/turtle.png" alt="Turtle">
+<img class="wrapped" src="Images/owl.png" alt="Owl">
+<h1>
+    Stuffed Animals
+</h1>
+<br>
+<p>
+    In all my time sewing, the project type I have done the most is stuffed animals. They're
+    easy, cute, and make great gifts. But they start to pile up after a while, and there are a
+    ton of home-made stuffed animals sitting in our storage closet. Here are  of my favorites.
+    The one on the left is a turtle, and the one on the right is an owl. I especially love the dome technique for creating the turtle. Another
+    great thing about these stuffed animals is that they do not need to look realistic at all,
+    so I always use bright patterns and colors to make them more fun.
+</p>
+<br>
+<img class="wrapped5" src="Images/totebag.JPG" alt="Tote Bag">
+<h1>
+    Tote Bag
+</h1>
+<br>
+<p>
+    One of the most recent sewing projects I have completed was a tote bag. I saw this super
+    cute pattern on TikTok and I decided to try it. TikTok is also the place where I have seen
+    the tote bag trend, and I think it's so cute. I used canvas fabric for this bag, so it's
+    very sturdy and big enough to carry everything I need. It also has a pocket on the front,
+    which gave me the opportunity to use my machine to make my first buttonhole.
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<!--#include file="footer.html" -->
+</body>
+</html>

@@ -1,0 +1,263 @@
+main .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+main {
+    /* scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* center contents */
+    text-align: center;
+}
+
+main img {
+    max-width: 100%;
+}
+
+img.wrapped {
+    float: right;
+    width: 30%;
+    height: 30%;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+img.wrapped2 {
+    float: left;
+    width: 10%;
+    height: 10%;
+    padding-left: 40px;
+    padding-right: 20px;
+}
+
+img.wrapped3 {
+    float: left;
+    width: 30%;
+    height: 30%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+img.wrapped4 {
+    width: 24%;
+    height: 24%;
+    padding-left: 30px;
+    padding-right: 0px;
+}
+
+img.wrapped5 {
+    float: left;
+    width: 25%;
+    height: 25%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/* Design information for body */
+body {
+    background-color: floralwhite;
+    padding: 0px;
+}
+
+/* Design information for each paragraph */
+p {
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: square;
+    line-height: 36px;
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* First heading */
+h2 {
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 { /*subheading*/
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 500;
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* Design information for things tagged to go in the center */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Design information for alerts */
+.alert {
+    font-size: 20px;
+}
+
+/* Design information for the third headings */
+h3 {
+    color: lavender;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding: 25px;
+}
+
+/* Design information for labels */
+label {
+    font-size: 20px;
+    padding-left: 25px;
+}
+
+/* Design information for the fourth headings */
+h4 {
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h5 {
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header {
+    overflow: hidden;
+    background-color: rebeccapurple;
+    padding: 40px 10px;
+    padding-left: 25px;
+    margin: 0px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #C683CF;
+    padding-left: 30px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
+.options {
+    padding: 5px;
+    color: antiquewhite;
+}
+
+/* Style the header links */
+.header a {
+    font-family: 'Abril Fatface', cursive;
+    float: left;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.options a {
+    border-radius: 6px;
+    padding-inline: 50px;
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/* Change the background color on mouse-over */
+.header-right a:hover {
+    background-color: lightpink;
+    color: rebeccapurple;
+}
+
+.options a:hover {
+    background-color: lightpink;
+    color: rebeccapurple;
+}
+
+/* Style the active/current link*/
+.header-right a.active {
+    background-color: antiquewhite;
+    color: black;
+}
+
+/* Float the link section to the right */
+.header-right {
+    float: right;
+    padding-right: 25px;
+}
+.bottombar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rebeccapurple;
+    padding-left: 30px;
+    margin: 0px;
+    color: antiquewhite;
+}
+
+/* Style the links inside the navigation bar */
+.bottombar a {
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Abril Fatface', cursive;
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 1px;
+}
+
+/* Change the color of links on hover */
+.bottombar a:hover {
+    background-color: antiquewhite;
+    color: rebeccapurple;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 500px) {
+    .header a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+    .header-right {
+        float: none;
+    }
+}

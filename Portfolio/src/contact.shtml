@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Contact
+</h2>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    Thanks for visiting my website and portfolio! Here are a few ways you can reach out to me.
+</p>
+<br>
+<img class="wrapped2" src="Images/email.png" alt="Email Icon">
+<br>
+<p class="pushed">
+    Email: <a href = "mailto: sarah22krid@gmail.com">sarah22krid@gmail.com</a>
+</p>
+<br>
+<img class="wrapped2" src="Images/insta.png" alt="Instagram Icon">
+<br>
+<p class="pushed">
+    Instagram: <a href="https://www.instagram.com/sarahridleyy/">@sarahridleyy</a>
+</p>
+<br><br>
+<img class="wrapped2" src="Images/linkedin.png" alt="LinkedIn Icon">
+<br>
+<p class="pushed">
+    LinkedIn: <a href="https://www.linkedin.com/in/sarah-k-ridley/">linkedin.com/in/sarah-k-ridley/</a>
+</p>
+<br>
+<br>
+<p>
+    I would love to answer questions about anything I have posted in my portfolio!
+</p>
+<br>
+<br>
+<br>
+<!-- Bottom Bar-->
+<!--#include file="footer.html" -->
+</body>
+</html>

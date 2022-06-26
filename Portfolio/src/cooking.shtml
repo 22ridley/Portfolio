@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Cooking
+</h2>
+<br>
+<img class="wrapped5" src="Images/pepper.JPG" alt="Red Pepper">
+<h1>
+    Home Grown Ingredients
+</h1>
+<br>
+<p>
+    One of my favorite parts of cooking is that I get to use home grown ingredients from
+    my families garden. Here is a picture of a red pepper that we grew. We also grow basil,
+    thyme, red tomatoes, yellow tomatoes, arugula, bok choy, cilantro, parsley, and spinach. We have made a ton
+    of meals with these ingredients, and many of them are shown in the picture below. Cooking
+    feels even more special when the ingredients come from your own garden. Not to mention
+    how fresher ingredients make delicious meals!
+</p>
+<img class="wrapped" src="Images/salsa.JPG" alt="Red Pepper">
+<br>
+<br>
+<p>
+    We made salsa with a lot of these ingredients. We used red peppers, red tomatoes, yellow
+    tomatoes, and cilantro from our garden. We also bought onions from the store, so it wasn't
+    completely home grown. But still, we had the right idea! This salsa was probably the most
+    flavorful salsa I've ever had, and it was delicious with chips.
+</p>
+<img class="wrapped3" src="Images/shrimpscampi.JPG" alt="Shrimp Scamp">
+<br>
+<h1>
+    Favorite Dishes
+</h1>
+<br>
+<p>
+    My all time favorite dish to cook is shrimp scampi. My sister found this recipe in one of Ina
+    Garten's cookbooks, and we decided to try it. Ina Garten is my mom's favorite chef, and she didn't
+    let us down. The dish is delicious, and the strong lemon flavor pairs perfectly with the shrimp,
+    linguine, red pepper flakes, garlic, and parsley. The parsley is home grown, which makes it even
+    better. We cook this dish about once every two weeks, and we have become experts. I don't think
+    I will ever get bored of this dish.
+</p>
+<br>
+<img class="wrapped" src="Images/pizza2.JPG" alt="Pizza">
+<img class="wrapped" src="Images/pizza1.JPG" alt="Pizza">
+<br>
+<p>
+    Another dish that has become my favorite is homemade pizza. Well, it's not really homemade, because
+    we buy the dough, sauce, and cheese from Trader Joe's, my all time favorite grocery store. However,
+    we did use peppers and tomatoes from our garden on half the pizza. On the other half, we usually keep
+    it plain with just cheese. Pizza is the best food ever, and making it at home is super fun and easy.
+    Just like all of these meals, the best part is making them with my family. Working in the kitchen
+    together gives us time to bond and destress together.
+</p>
+<br>
+<br>
+<br>
+<!--#include file="footer.html" -->
+</body>
+</html>

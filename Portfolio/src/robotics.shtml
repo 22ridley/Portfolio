@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Robotics and Machines
+</h2>
+<br>
+<img class="wrapped5" src="Images/coloredLEDs.jpg" alt="Colored LEDS">
+<img class="wrapped" src="Images/magicPiano.png" alt="Magic Piano">
+<h1>
+    Duke TIP
+</h1>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    I learned how to build circuits in the fall before my sophomore year of high school when I
+    attended a Duke TIP Electrical Engineering camp for three weeks. Our main focus was learning
+    how to use LEDs, capacitors, resistors, breadboard wires, and main other circuit components
+    to build cool projects. The photo on the left was one of my first projects using LEDs. On the
+    right is my final project, which was a magic piano game. The LED matrices would light up to
+    display animated blocks falling that show which buttons the player has to press to play the
+    right notes in the song.
+</p>
+<br>
+<img class="wrapped" src="Images/ultrasonic.jpg" alt="Magic Piano">
+<h1>
+    Robotics Class
+</h1>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    In the fall of sophomore year of high school, I took the Robotics I class at my school. I
+    learned even more about circuit design, as you can see in the picture on the right. I used new
+    components, like ultrasonic sensors and IR sensors. Like at Duke TIP, we used Arduinos as our
+    microcontrollers in our projects, so I also got familiar with using C and C++ when coding in the
+    Arduino IDE for my projects. The most exciting part of that class was building robots to solve
+    real problems using my circuitry skills.
+</p>
+<img class="wrapped3" src="Images/laundryBot.jpg" alt="Laundry Bot">
+<br>
+<br>
+<img class="wrapped" src="Images/mazeRobot.png" alt="Maze Robot">
+<p>
+    One of the most fun projects in this class was building a maze-navigating robot, shown on the right.
+    We were given a course with many turns, ramps, and tunnels, and our robot autonomously navigated the
+    maze using ultrasonic sensors and a gyroscope. I also had a lot of fun building laundry-folding robot
+    for my final project, which you can see on the left. While building the Laundry Bot project was challenging,
+    this projecy built my resiliency and expanded my idea of what a robot could be.
+</p>
+<br>
+<img class="wrapped3" src="Images/CScato.jpg" alt="Critter Sitter">
+<h1>
+    Personal Projects
+</h1>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    One robotics project that I have done outside of school/camp is building a machine called the Critter Sitter.
+    I built this machine on a remote team of 4 as a part of the General Electric Design Challenge. You can see
+    the app I coded to pair with this machine on the programming tab of this website. The machine opens a hatch to
+    release a specified amount of food to feed a pet. You can see my cat, Cato, about to eat the food released by
+    the machine. My team tied for third place in the competition! I can't wait to make more personal robotics projects
+    inspired by improving my daily routine.
+</p>
+<br>
+<img class="wrapped" src="Images/darcsidecamp.png" alt="Robotics Camp">
+<h1>
+    DARC SIDE Team
+</h1>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    The DARC SIDE is my high school robotics team, and I was elected as a captain in my senior
+    year. In the spring of 2020, our robot took second place at the Wake County First Robotics Competition Event.
+    Our season was cut short by COVID, and the next year, we did not participate in formal FRC competitions.
+    Instead, we had a Mini FRC competition, where we split our own team into 4 subteams to build smaller
+    robots to compete against one another. In the season beginning in the fall of 2021 and continuing into
+    the spring of 2022, we will compete against other teams again, and I can't wait. This image shows me teaching a
+    summer robotics camp for elementary school kids in our lab. We used First Lego League Robotics kits to
+    introduce them to the skills of robotics, and we also got to show off our real FRC robot to the campers.
+</p>
+<br>
+<br>
+<br>
+<br>
+<!--#include file="footer.html" -->
+</body>
+</html>
