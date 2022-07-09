@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<img class="wrapped" src="Images/speaking.jpeg" alt="Speaking at a DARC SIDE event">
+<h2>
+    Academic Awards
+</h2>
+<br>
+<h1>
+    School
+</h1>
+<br>
+<p>
+    At the end of my freshman year in high school, I won the <b>Algebra II</b> award for achieving the highest performance of all
+    students taking Algebra II that year at my high school.
+</p>
+<p>
+    Additionally, at the culmination of my senior year, I won the <b>Senior Technology Award</b> for my contributions to technology
+    programs at my high school. This includes my leadership as a <b>captain</b> on the DARC SIDE Robotics Team, participation in every computer
+    science class offered at my high school, and technology outreach to younger students.
+</p>
+<br>
+<h1>
+    External Organizations
+</h1>
+<br>
+<p>
+    For high achievement on the PSAT in October, 2020, I became a <b>National Merit Semifinalist</b>. After my submission
+    of an essay along with a high score on the SAT, I became a <b>National Merit Finalist</b> in 2021. Along with this distinction,
+    I won a scholarship of $2,500 to contribute to the cost of attending Brown University.
+</p>
+<p>
+    Additionally, I became an <b>AP Scholar with Honor</b> after I achieved all scores of 5 on my junior year of AP exams
+    (AP Computer Science A, AP US History, AP Spanish Language, and AP Calculus BC). Then, I achieved all scores of 5 on
+    my senior year of AP exams (AP Physics C: Mechanics, AP Statistics, and AP European History), so I became an <b>AP Scholar with Distinction</b>.
+</p>
+<p>
+    Finally, during my senior year of high school, I was nominated as a <b>US Presidential Scholar Candidate</b>, along
+    with only about 5,000 other students in the country.
+</p>
+<br>
+<img class="wrapped3" src="Images/croppedVBALL.jpeg" alt="Playing volleyball">
+<h2>
+    Athletic Awards
+</h2>
+<br>
+<h1>
+    Volleyball
+</h1>
+<br>
+<p>
+    In my junior year on my high school's Varsity volleyball team, I won the <b>Coach's Reliability Award</b> for my
+    dependability on and off the court. This volleyball team was incredibly important to me, so I always put my
+    teammate's needs before my own.
+</p>
+<p>
+    For this dedication to the team, I was also elected by my teammates to become a <b>captain</b> of the team in my senior year.
+</p>
+<br>
+<br>
+<br>
+<!--#include file="footer.html" -->
+</body>
+</html>

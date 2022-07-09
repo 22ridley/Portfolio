@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+    <img class="wrapped" src="Images/robots.jpeg" alt="Me at Robotics">
+<h2>
+    Welcome to my portfolio!
+</h2>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    Thanks for visiting!
+</p>
+<br>
+<p>
+    Hi! My name is Sarah Ridley and I'm a freshman at Brown University in Providence, Rhode Island. I plan to concentrate
+    in computer science, and this website is my
+    personal portfolio that I coded myself. I've used tools like WordPress to make smaller webpages when I was younger, but I decided to
+    code this website with no extra tools. So, everything you see is a combination of HTML, CSS, and JavaScript.
+    The only drawback is that there might be some errors! Please use the 'Contact' tab below to let me know if you find
+    any issues, or if you want to reach out for any other reason.
+</p>
+<p>
+    I fell in love with coding in middle school, and this website has allowed me to create a tangible
+    project that I can easily share with others. The beauty of this website is that I can also use it to share
+    my other interests. Believe it or not, coding is not my only hobby! I also love robotics,
+    sewing, baking, cooking, and volleyball. If you want to learn more about my interest in <a href="programming.shtml">programming</a>,
+    <a href="robotics.shtml">robotics</a>, or <a href="sewing.shtml">sewing</a>, please check out those tabs!
+    I have lots of projects that I'm excited to share.
+</p>
+<p>
+    Additionally, you can learn more about who I am on the <a href="about.shtml">about</a> page, where I write about how I discovered these interests. Finally, the <a href="awards.shtml">awards</a> tab serves as a
+    log of my accomplishments, so please check it out if you're interested!
+</p>
+<p>
+    Again, because I built this website from scratch (with the help of many articles and forums online), there is a
+    chance that you will find a bug. If you're willing to go the extra
+    mile, please contact me and tell me about the problem so that I can fix it! You can find my information on the
+    'Contact' tab on the bottom bar.
+</p>
+<br>
+<p>
+    Please explore my portfolio!
+</p>
+<br>
+<img class="wrapped" src="Images/quilt-sewing.JPG" alt="Me Sewing">
+<h2>
+    Photos on this page:
+</h2>
+<br>
+<p>
+    The first photo is from when I worked a summer program run by my robotics team, called DARC SIDE. This
+    camp was for elementary school ages kids, and we were using First Lego League kits to introduce them to
+    robotics and build interest in the First Robotics Competition program, which is the league that my team
+    competes in. In this photo, I am giving a tour of our robotics lab to the students. You can learn more
+    about this on the <a href="robotics.shtml">robotics</a> tab.
+</p>
+<br>
+<p>
+    The second photo is from when I was finishing a quilt that I sewed for an English project at the end of
+    my junior year. The process of finishing a quilt includes sewing lines or patterns over fabric that has already been
+    sewn together to create the background of the quilt. These seams that run along the top and the bottom give the quilt more
+    depth and an elevated look of precision. This quilt was so much fun to make and I learned so much about the craft! You can find
+    more about this specific quilt on the <a href="sewing.shtml">sewing</a> tab.
+</p>
+<br>
+<br>
+<br>
+<br>
+<!--#include file="footer.html" -->
+</body>
+</html>

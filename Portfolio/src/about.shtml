@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    sarah ridley's portfolio
+</title>
+</head>
+<body>
+<!--#include file="header.html" -->
+<!-- Welcome message -->
+<br>
+<img class="wrapped" src="Images/sarah-junior-portfolio.jpeg" alt="Photo of Me">
+<h2>
+    About Me
+</h2>
+<!-- Text and Photos-->
+<br>
+<p>
+    Hi again! Here's a little bit more about me.
+</p>
+<br>
+<p>
+    I began coding in middle school, and since then, I have learned more about programming in high school
+    classes. I took AP Computer Science A in my junior year of high school and really enjoyed it. I
+    joined my high school's DARC SIDE robotics team in my sophomore as well as taking robotics classes, and I've
+    really enjoyed them. You can read more about those experiences on the <a href="robotics.shtml">robotics</a> page!
+    But, my interest in robotics and machines began ten years ago when I learned how to sew. Ever since, I have
+    been fascinated with how my sewing machine works. Some of my favorite sewing projects have been quilts,
+    masks, tote bags, and more. You can read about some of my projects on the <a href="sewing.shtml">sewing</a> page.
+</p>
+<img class="wrapped3" src="Images/brownshirt.JPG" alt="Photo of Me">
+<p>
+    Although I don't quite understand how my sewing machine works, working to understand the mechanics has occupied me
+    for many hours. The mysteries of my sewing machine also pushed me to take those robotics and computer science classes
+    and join the DARC SIDE robotics team, and I couldn't be more grateful.
+    Additionally, my interest the intersection between sewing and robotics was actually the topic of my
+    Common Application essay. I'm very proud of that essay, and I definitely think it helped me get into Brown University,
+    which I applied to Early Decision in the fall of 2021. I am very happy to say that I was accepted! At Brown, I
+    intend to concentrate (or 'major') in computer science.
+</p>
+<br>
+<p>
+    Again, thank you for taking the time to view my online portfolio.
+</p>
+<p>
+    Please use the 'Contact' tab at the bottom of this page if you have any questions!
+</p>
+<br>
+<br>
+<br>
+<!-- Bottom Bar-->
+<!--#include file="footer.html" -->
+</body>
+</html>
