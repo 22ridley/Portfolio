@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="Static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/mirror.ico">
+<title>
+    Sarah Ridley
+</title>
+</head>
+<body>
+<div class="intro-container">
+  <img src="Images/background1.jpg" alt="Background" class="bg">
+  <img src="Images/brown-gates.png" alt="Gates" class="gates">
+  <div class="intro-text">
+    <div class="title">Sarah Ridley</div>
+    <div class="intro">
+        <div>
+            I am a computer science concentrator at Brown University 
+            graduating in May 2026. I am interested in software engineering,
+            software security, and data privacy. 
+        </div>
+        <br>
+        <div>
+            Please see below for information on my professional
+            experience, research participation, personal projects, and awards. 
+        </div>
+  </div>
+  <div class="socials-box">
+    <a href="https://drive.google.com/file/d/1MrVFCyaTyXDtMxgIqgnskqxpmULksWUg/view?usp=sharing" target="_blank">
+        <div class="resume">Resume</div>
+    </a>
+    <a href="https://drive.google.com/file/d/1WkdqMqPt8gRpL3-C9NQs6bX9OMuJ6utq/view?usp=sharing" target="_blank">
+        <div class="resume">Transcript</div>
+    </a>
+    <a href="https://www.linkedin.com/in/sarah-k-ridley/" target=”_blank”>
+        <img src="Images/linkedin.png" alt="LinkedIn" class="linkedin">
+    </a>
+    <a href="https://github.com/22ridley" target=”_blank”>
+        <img src="Images/github.png" alt="Github" class="github">
+    </a>
+    <a href="mailto: sarah_ridley@brown.edu">
+        <img src="Images/email.png" alt="Email" class="email">
+    </a>
+  </div>
+</div>
+<div class="prof-container">
+    <div class="prof-title">
+        Professional Experiences
+    </div>
+    <div class="prof-text">
+        <div>
+            My most recent professional experience is working as a Software Development 
+            Engineering Intern at Amazon Audible in Summer 2024. I joined the Player team
+            to work on a backend project for 12 weeks in Newark, New Jersey.
+        </div>
+        <br>
+        <div>
+            Previously, I spent Summer 2023 working as a Site Reliability Engineering
+            Intern at Pearson Education in Durham, North Carolina. I spent 10 weeks at Pearson working on creating
+            a cloud-based AI chatbot to query internal Pearson documentation. In this role,
+            I also studied for and earned my AWS Cloud Practitioner Certification.
+        </div>
+    </div>
+    <img src="Images/audible.png" alt="Audible" class="audible">
+    <img src="Images/pearson.png" alt="Pearson" class="pearson">
+</div>
+<div class="research-container">
+    <div class="research-title">
+        Research Experience
+    </div>
+    <div class="research-text">
+        In the winter of 2024, I joined the <a href="https://etos.cs.brown.edu" target="_blank">ETOS</a> 
+        research group at Brown University. I've had the opportunity to learn Rust and work on a research project
+        focusing on privacy preserving systems, specifically using policy-protected data. I'm excited about
+        future opportunities to continue expanding my skills in a research context.
+    </div>
+    <a href="https://etos.cs.brown.edu" target="_blank">
+        <img src="Images/etos-bear.png" alt="ETOS Bear" class="etos-bear">
+    </a>
+</div>
+<div class="proj-container">
+    <div class="prof-title">
+        Projects
+    </div>
+    <div class="proj-text">
+        <div class="subtitle">
+            Hack@Brown
+        </div>
+        <div>
+            In my first semester of college, I joined Hack@Brown, which organizes Brown University's annual hackathon. 
+            Students at Brown and from colleges across the US come to Brown to compete in the hackathon. I became a part of the Dev team, where I learned React to help create the 
+            <a href="https://2023.hackatbrown.org/" target="_blank">2023 website</a> for the hackathon. The following year, I became a 
+            co-lead for the Dev team, where I led the development of the <a href="https://2024.hackatbrown.org/" target="_blank">2024 website</a>.
+        </div>
+        <br>
+        <div class="subtitle">
+            Rideshare Fare Predictor
+        </div>
+        <div>
+            This rideshare fare predictor was my first project in my Advanced CS: Data Science and AI class that I took in my
+            senior year of high school. This project is entirely written in Python. I used the pandas library
+            functions to make an SVC (Support Vector Classification) predictive model for based on data about the prices of
+            rideshare services found on Kaggle. I also used geopandas to make the map that shows up on the right side
+            of the GUI. To make the GUI, I used the tkinter library.
+        </div>
+        <br>
+        <div class="subtitle">
+            Alpha-Beta Pruning Mancala
+        </div>
+        <div>
+            This game of mancala is also written in Python. The player plays against the computer, which uses search trees and alpha-beta pruning
+            to pick its moves. 
+            The computer makes a tree with every possible move, pruning some branches with alpha-beta cutoffs, and then chooses the best
+            move. Depending on how many moves you let the computer look ahead to (which correlates with how many layers of the tree it
+            will create), the computer can become virtually unbeatable.
+        </div>
+    </div>
+    <img class="dev" src="Images/dev-team.jpg" alt="2024 Dev Team">
+    <img class="uber" src="Images/uber.png" alt="Rideshare Fare Predictor">
+    <img class="mancala" src="Images/mancala.png" alt="Mancala Game">
+</div>
+<div class="courses-container">
+    <div class="prof-title">
+        Relevant Coursework
+    </div>
+    <div class="courses-text">
+        <div>
+            Fall 2022
+            <ul>
+                <li><i><b>CSCI 0190 Accelerated Intro to Computer Science:</b></i> functional programming, data structures, algorithms</li>
+                <li><i><b>MATH 0180 Multivariable Calculus:</b></i> partial derivatives, double and triple integrals, vector calculus in 2- and 3-space</li>
+            </ul>
+            Spring 2023
+            <ul>
+                <li><i><b>CSCI 0220 Discrete Math:</b></i> logic, number theory, set theory, graph theory</li>
+                <li><i><b>CSCI 0300 Fundamentals of Computer Systems:</b></i> C, C++, computer memory, operating systems, distributed systems</li>
+                <li><i><b>MATH 0520 Linear Algebra:</b></i> vector spaces, lines and planes, linear transformations</li>
+                <li><i><b>APMA 1650 Statistical Inference I:</b></i> probability, sampling distributions, hypothesis testing</li>
+            </ul>
+            Fall 2023
+            <ul>
+                <li><i><b>CSCI 0320 Intro to Software Engineering:</b></i> Java, Typescript, React, API interaction, mocking, user accessibility</li>
+                <li><i><b>CSCI 1650 Software Security and Exploitation:</b></i> assembly language, buffer overflow, return-oriented programming</li>
+            </ul>
+            Spring 2024
+            <ul>
+                <li><i><b>CSCI 1040 Basics of Cryptographic Systems:</b></i> RSA encryption, differential privacy, cryptocurrency</li>
+                <li><i><b>CSCI 1690 Operating Systems:</b></i> threading and scheduling, disk interaction, device I/O, file systems, networking</li>
+                <li><i><b>CSCI 1710 Logic for Systems:</b></i> Forge, Z3, formal methods, SAT and SMT solving</li>
+            </ul>
+            <br>
+            Additionally, I was hired as a teaching assistant for CSCI 0190 in Fall 2023, CSCI 0300 in Spring 2024, and CSCI 0320 in Fall 2024.
+        </div>
+    </div>
+</div>
+<div class="awards-container">
+    <div class="prof-title">
+        Awards and Scholarships
+    </div>
+    <div class="courses-text">
+        <div class="subtitle">
+            Brown Alumni of DTrace Teaching Assistant Endowment
+        </div>
+        <div>
+            In the fall of 2023, I was selected as the Brown Alumni of DTrace Teaching Assistant Endowment recipient 
+            as a teaching assistant for CSCI 0190. This meant that my teaching assistant compensation was provided by 
+            donors' endowment.
+        </div>
+        <br>
+        <div class="subtitle">
+            Rewriting the Code Grace Hopper Scholarship
+        </div>
+        <div>
+            For working with Rewriting the Code as a Rising Leader Intern, I was awarded a scholarship to cover
+            my attendance to Grace Hopper Celebration in Orlando, Florida in 2023.
+        </div>
+        <br>
+        <div class="subtitle">
+            National Merit Finalist
+        </div>
+        <div>
+            For high achievement on the PSAT and SAT, I was chosen as a National Merit Finalist in 2021. Along with this distinction,
+            I won a scholarship of $2,500 to contribute to the cost of attending Brown University.
+        </div>
+        <br>
+        <div class="subtitle">
+            AP Scholar with Distinction
+        </div>
+        <div>
+            After achieving scores of 5 on all AP classes I took (AP Computer Science A, AP US History, AP Spanish Language, AP Calculus BC, 
+            AP Physics C: Mechanics, AP Statistics, and AP European History) I earned the award of AP Scholar with Distinction.
+        </div>
+        <br>
+        <div class="subtitle">
+            Presidential Scholar Candidate
+        </div>
+        <div>
+            During my senior year of high school, I was nominated as a US Presidential Scholar Candidate, along
+            with only about 5,000 other students in the country.
+        </div>
+        <br>
+        <div class="subtitle">
+            Durham Academy
+        </div>
+        <div>
+            In my senior year at Durham Academy, I was awarded the Senior Technology Award for my contributions to technology
+            programs. This includes my leadership as a captain on the DARC SIDE Robotics Team, exceling in computer
+            science classes, and technology outreach to younger students. I also was awarded the Algebra II award for 
+            achieving the highest performance of all students taking Algebra II in my first year of high school.
+        </div>
+    </div>
+</div>
+<div class="inter-container">
+    <div class="prof-title">
+        Personal Interests - Sewing
+    </div>
+    <div class="proj-text">
+        <div class="subtitle">
+            Face Masks
+        </div>
+        <div>
+            In the summer of 2020, I sewed 50 face masks and donated them to a birth center in Western North
+            Carolina. I had never sewn face masks before, but during the beginning of the pandemic, demand
+            for face masks was high. I chose bright, colorful fabrics for the face masks, and I found it fulfilling to know that my sewing
+            skills have helped strangers. I have continued looking for other ways to use this passion to help others.
+        </div>
+        <br>
+        <div class="subtitle">
+            Tote Bags
+        </div>
+        <div>
+            One of the most recent sewing projects I completed was a cream and pink tote bag. After my success with this tote bag, 
+            I decided to sew DARC SIDE inspired
+            tote bags as my parting gift to my robotics mentor and my co-captain. DARC SIDE is
+            the name of my high school's robotics team. I used a very similar technique on these tote bags as my first tote bag, but I had to learn how to sew
+            circular blocks. In the future, I hope to use this technique to make circular patterns on quilts.
+        </div>
+        <br>
+        <div class="subtitle">
+            Quilts
+        </div>
+        <div>
+            My absolute favorite type of sewing project is quilting. Quilts take much more time than
+            any other sewing project on this page, and they are so incredibly rewarding. The pictures
+            I included below show the process of one of my quilts, which I made as part of an English
+            project last year. The quilt is about how the sewing machine simultaneously reduced women's
+            work load to make clothes for their family, but also emphasized their domestic familial role.
+            The symbols I show in this quilt are the Venus symbol, the globe, an old sewing machine, a new
+            sewing machine, and a factory along the bottom. The factory and the globe represent how today,
+            the labor of sewing clothing is outsourced to third world countries. This makes the price of
+            clothing incredibly cheap, encouraging consumers to buy and subsequently waste more clothing.
+            This process of harmful to our world because the workers do not earn living wages and because
+            rising clothing production and waste have horrible implications for our climate.
+        </div>
+    </div>
+    <img class="masks" src="Images/maskswheel.jpg" alt="Masks">
+    <img class="q1" src="Images/quilt1.jpg" alt="Quilt Image 1">
+    <img class="q2" src="Images/quilt2.jpg" alt="Quilt Image 2">
+    <img class="q3" src="Images/quilt3.jpg" alt="Quilt Image 3">
+    <img class="q4" src="Images/quilt4.JPG" alt="Quilt Image 4">
+    <img class="dstote" src="Images/DARCbags.JPG" alt="Tote Bag">
+    <img class="tote" src="Images/totebag.JPG" alt="DARC SIDE Tote Bags">
+</div>
+<div class="bottom"></div>
+</body>
+</html>

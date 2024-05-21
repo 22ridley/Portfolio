@@ -1,0 +1,285 @@
+body {
+  background-color: rgb(237, 158, 177);
+}
+
+.intro-container {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.prof-container {
+  background-color: rgb(245, 240, 233);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 35vw;
+}
+
+.research-container {
+  background-color: rgb(251, 227, 235);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 25vw;
+}
+
+.proj-container {
+  background-color: rgb(245, 240, 233);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 70vw;
+}
+
+.courses-container {
+  background-color: rgb(251, 205, 221);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 58vw;
+}
+
+.awards-container {
+  background-color: rgb(245, 240, 233);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 78vw;
+}
+
+.inter-container {
+  background-color: rgb(251, 227, 235);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 81vw;
+}
+
+.bottom {
+  background-color: rgb(237, 158, 177);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 2vw;
+}
+
+.bg {
+  width: 100vw;
+}
+
+/* Bottom left text */
+.gates {
+  position: absolute;
+  bottom: 75px;
+  left: 6vw;
+  width: 35vw;
+  top: 6vw;
+  border: 5px solid white;
+}
+
+.intro-text {
+  position: absolute;
+  top: 20vw;
+  left: 48vw;
+  color: black;
+  width: 45vw;
+}
+
+.prof-text {
+  position: absolute;
+  top: 10vw;
+  left: 4vw;
+  color: black;
+  width: 70vw;
+  font-family: "Quicksand";
+  font-size: 1.5vw;
+}
+
+.proj-text {
+  position: absolute;
+  top: 10vw;
+  left: 4vw;
+  color: black;
+  width: 60vw;
+  font-family: "Quicksand";
+  font-size: 1.5vw;
+}
+
+.courses-text {
+  position: absolute;
+  top: 10vw;
+  left: 4vw;
+  color: black;
+  width: 90vw;
+  font-family: "Quicksand";
+  font-size: 1.5vw;
+}
+
+.subtitle {
+  color: black;
+  font-family: "Lora";
+  font-style: italic;
+  font-size: 2.3vw;
+}
+
+.research-text {
+  position: absolute;
+  top: 10vw;
+  left: 30vw;
+  color: black;
+  width: 65vw;
+  font-family: "Quicksand";
+  font-size: 1.5vw;
+}
+
+.title {
+  position: absolute;
+  font-family: "Abril Fatface", cursive;
+  font-size: 5vw;
+}
+
+.prof-title {
+  position: absolute;
+  font-family: "Abril Fatface", cursive;
+  font-size: 3vw;
+  top: 3vw;
+  left: 4vw;
+}
+
+.research-title {
+  position: absolute;
+  font-family: "Abril Fatface", cursive;
+  font-size: 3vw;
+  top: 3vw;
+  left: 30vw;
+}
+
+.intro {
+  top: 8vw;
+  position: absolute;
+  font-family: "Quicksand";
+  font-size: 1.5vw;
+}
+
+.socials-box {
+  position: absolute;
+  top: 25vw;
+  display: flex;
+}
+
+.resume {
+  font-family: "Quicksand";
+  margin-right: 2vw;
+  padding: 1.6vw;
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  color: black;
+  font-size: 1.1vw;
+}
+
+.linkedin {
+  width: 7vw;
+  padding-right: 2vw;
+}
+
+.github {
+  width: 6.5vw;
+  padding-right: 1.5vw;
+}
+
+.email {
+  width: 7vw;
+}
+
+.audible {
+  position: absolute;
+  top: 5vw;
+  right: 8vw;
+  width: 10vw;
+}
+
+.pearson {
+  position: absolute;
+  top: 18vw;
+  right: 8vw;
+  width: 10vw;
+}
+
+.etos-bear {
+  position: absolute;
+  width: 20vw;
+  top: 3vw;
+  left: 4vw;
+}
+
+.mancala {
+  position: absolute;
+  width: 20vw;
+  top: 50vw;
+  right: 6vw;
+}
+
+.uber {
+  position: absolute;
+  width: 20vw;
+  top: 32vw;
+  right: 6vw;
+}
+
+.dev {
+  position: absolute;
+  width: 20vw;
+  top: 10vw;
+  right: 6vw;
+}
+
+.masks {
+  position: absolute;
+  width: 25vw;
+  top: 5vw;
+  right: 6vw;
+}
+
+.tote {
+  position: absolute;
+  width: 12vw;
+  top: 32vw;
+  right: 19vw;
+}
+
+.dstote {
+  position: absolute;
+  width: 9.7vw;
+  top: 32vw;
+  right: 6vw;
+}
+
+.q1 {
+  position: absolute;
+  width: 11vw;
+  top: 48vw;
+  right: 20vw;
+}
+
+.q2 {
+  position: absolute;
+  width: 11vw;
+  top: 48vw;
+  right: 6vw;
+}
+
+.q3 {
+  position: absolute;
+  width: 11vw;
+  top: 63vw;
+  right: 20vw;
+}
+
+.q4 {
+  position: absolute;
+  width: 11vw;
+  top: 63vw;
+  right: 6vw;
+}
